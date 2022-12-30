@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saisab29)](https://git.io/streak-stats)
+
 
 
 
@@ -27,4 +27,5 @@
 <a href="https://twitter.com/prosolitudee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prosolitudee" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saisab-karki-72297a233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisab29&" alt="saisab29" /></p>
 
