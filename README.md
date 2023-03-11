@@ -1,5 +1,5 @@
 
-// [![GitHub Streak](https://streak-stats.demolab.com?user=saisab29&theme=react&border_radius=10&fire=0050DD&)](https://git.io/streak-stats) 
+<!--  [![GitHub Streak](https://streak-stats.demolab.com?user=saisab29&theme=react&border_radius=10&fire=0050DD&)](https://git.io/streak-stats)  -->
 
 
 <img  alt="hi" align="right" src="https://64.media.tumblr.com/125a0617d8986ad521772f0f42aa56db/tumblr_n68390DBXL1t9w6i8o1_500.gif">
